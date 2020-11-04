@@ -8,4 +8,4 @@ This is a calculator I constructed for my dad's Fire Protection Engineering comp
 This calculator makes use of html, css, and vanilla JavaScript.
 
 ## Launch
-To launch the calculator, simply vist: https://fmnitsch.github.io/handyhydraulics/
+To launch the calculator, simply vist: https://fmnitsch.github.io/handyhydraulics/handyhydraulics.html
