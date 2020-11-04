@@ -188,7 +188,7 @@ pressLoss.addEventListener('click', function() {
         <div class=inputs-container>
             <table>
                 <tr>
-                    <td><label for="q-discharge">Q-discharge (psi):</label></td>
+                    <td><label for="q-discharge">Q-discharge (gpm):</label></td>
                     <td><input id="q-discharge" name="q-discharge" class='input'></td>
                 </tr>
                 <tr>
